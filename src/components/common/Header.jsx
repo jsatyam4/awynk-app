@@ -27,7 +27,7 @@ export default class Header extends Component {
             <div className="collapse navbar-collapse text-center" id="navogation">
               <ul className="navbar-nav ml-auto">
                 <li class="nav-item dropdown">
-                  <a className="nav-link text-uppercase text-dark dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                  <a className="nav-link text-uppercase text-dark dropdown-toggle" href="/#" id="navbarDropdown" role="button"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Home
             </a>

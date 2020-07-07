@@ -30,22 +30,22 @@ export default class Footer extends Component {
                                     <h6>Follow</h6>
                                     <ul class="list-inline d-inline-block">
                                         <li class="list-inline-item">
-                                            <a href="#" class="text-dark">
+                                            <a href="/#" class="text-dark">
                                                 <i class="ti-facebook"></i>
                                             </a>
                                         </li>
                                         <li class="list-inline-item">
-                                            <a href="#" class="text-dark">
+                                            <a href="/#" class="text-dark">
                                                 <i class="ti-twitter-alt"></i>
                                             </a>
                                         </li>
                                         <li class="list-inline-item">
-                                            <a href="#" class="text-dark">
+                                            <a href="/#" class="text-dark">
                                                 <i class="ti-linkedin"></i>
                                             </a>
                                         </li>
                                         <li class="list-inline-item">
-                                            <a href="#" class="text-dark">
+                                            <a href="/#" class="text-dark">
                                                 <i class="ti-github"></i>
                                             </a>
                                         </li>
